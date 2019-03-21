@@ -1,0 +1,18 @@
+/home/aldyngot/Documents/abi/124_workingcode 2/124_workingcode/Sol124/obj/x86/Debug/Sol124.csprojResolveAssemblyReference.cache
+/home/aldyngot/Documents/abi/124_workingcode 2/124_workingcode/Sol124/obj/x86/Debug/Sol124.csproj.CoreCompileInputs.cache
+/home/aldyngot/Documents/abi/124_workingcode 2/124_workingcode/Sol124/obj/x86/Debug/Sol124.exe
+/home/aldyngot/Documents/abi/124_workingcode 2/124_workingcode/Sol124/obj/x86/Debug/Sol124.pdb
+/home/aldyngot/Documents/abi/124_workingcode 2/124_workingcode/Sol124/bin/Debug/Sol124.exe
+/home/aldyngot/Documents/abi/124_workingcode 2/124_workingcode/Sol124/bin/Debug/Sol124.pdb
+/home/aldyngot/Documents/abi/B3L_fernandez_quillo/Sol124/bin/Debug/Sol124.exe
+/home/aldyngot/Documents/abi/B3L_fernandez_quillo/Sol124/bin/Debug/Sol124.pdb
+/home/aldyngot/Documents/abi/B3L_fernandez_quillo/Sol124/obj/x86/Debug/Sol124.csprojResolveAssemblyReference.cache
+/home/aldyngot/Documents/abi/B3L_fernandez_quillo/Sol124/obj/x86/Debug/Sol124.csproj.CoreCompileInputs.cache
+/home/aldyngot/Documents/abi/B3L_fernandez_quillo/Sol124/obj/x86/Debug/Sol124.exe
+/home/aldyngot/Documents/abi/B3L_fernandez_quillo/Sol124/obj/x86/Debug/Sol124.pdb
+/Users/luisjanequillo/Desktop/code/B3L_fernandez_quillo/Sol124/bin/Debug/Sol124.exe
+/Users/luisjanequillo/Desktop/code/B3L_fernandez_quillo/Sol124/bin/Debug/Sol124.pdb
+/Users/luisjanequillo/Desktop/code/B3L_fernandez_quillo/Sol124/obj/x86/Debug/Sol124.csprojAssemblyReference.cache
+/Users/luisjanequillo/Desktop/code/B3L_fernandez_quillo/Sol124/obj/x86/Debug/Sol124.csproj.CoreCompileInputs.cache
+/Users/luisjanequillo/Desktop/code/B3L_fernandez_quillo/Sol124/obj/x86/Debug/Sol124.exe
+/Users/luisjanequillo/Desktop/code/B3L_fernandez_quillo/Sol124/obj/x86/Debug/Sol124.pdb

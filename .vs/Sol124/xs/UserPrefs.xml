@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8DFE49B7-6DB2-4C4F-B28C-B545089960CC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sol124/MainWindow.cs">
+    <Files>
+      <File FileName="Sol124/Program.cs" Line="9" Column="4" />
+      <File FileName="Sol124/MainWindow.cs" Line="30" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sol124" expanded="True">
+            <Node name="Sol124" expanded="True">
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sol124 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
